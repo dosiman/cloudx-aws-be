@@ -1,0 +1,23 @@
+{
+  "name": "cloudx-aws-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless": "^3.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dosiman/cloudx-aws-be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dosiman/cloudx-aws-be/issues"
+  },
+  "homepage": "https://github.com/dosiman/cloudx-aws-be#readme"
+}
